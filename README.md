@@ -8,5 +8,3 @@ Aprendiendo HTML, CSS, JavaScript y más.
 - CSS3 (con gradientes y animaciones)
 - JavaScript (interactividad básica)
 
-## Ver el sitio
-[Portfolio online](https://yoelrubio2000.github.io/mi-primer-portfolio/)
