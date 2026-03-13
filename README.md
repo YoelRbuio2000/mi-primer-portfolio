@@ -1,2 +1,2 @@
-# mi-primer-portfolio
-Primer commit: estructura básica de portfolio con HTML/CSS/JS
+# mi-primer-proyecto
+Mi primer proyecto de web con HTML y JS
